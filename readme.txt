@@ -1,0 +1,1 @@
+Java command line program that searches a file system for class files (incl. jar,ear,war). Shows duplicated locations as well. Furthermore it can show a diff for two jars.
