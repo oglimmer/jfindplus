@@ -7,7 +7,7 @@ across multiple jars, and diff two jar files.
 
 Install via Homebrew
 --------------------
-    brew tap oglimmer/jfindplus
+    brew tap oglimmer/jfindplus https://github.com/oglimmer/jfindplus
     brew install jfindplus
 
 Build from Source
