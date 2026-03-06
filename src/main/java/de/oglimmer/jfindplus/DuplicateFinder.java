@@ -4,21 +4,14 @@
  */
 package de.oglimmer.jfindplus;
 
-
-/**
- * 
- * @author oli
- * 
- */
 public class DuplicateFinder extends ClassFinderBase {
 
     public DuplicateFinder(ProgramArguments params) {
-	super(params);
+        super(params);
     }
 
     @Override
     protected int getOutputMinOccurrenceNumber() {
-	return 2;
+        return 2;
     }
-
 }

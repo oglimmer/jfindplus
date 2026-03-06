@@ -7,12 +7,11 @@ package de.oglimmer.jfindplus;
 public class SimpleFind extends ClassFinderBase {
 
     public SimpleFind(ProgramArguments params) {
-	super(params);
+        super(params);
     }
 
     @Override
     protected int getOutputMinOccurrenceNumber() {
-	return 1;
+        return 1;
     }
-
 }
